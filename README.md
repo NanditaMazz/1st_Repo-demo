@@ -1,4 +1,4 @@
 # 1st_Repo-demo
 My first GitHub repository for learning Git and GitHub.
 <br>
-Author- Nandita Majumdar
+Author- Nandita (Learning Git & GitHub)
